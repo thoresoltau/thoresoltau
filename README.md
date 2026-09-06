@@ -12,14 +12,12 @@
 
 <br/>
 
-<!-- Calm & Unified Executive Hero Card -->
+<!-- Executive Action & Credential Card -->
 <table width="100%">
   <tr>
     <td width="74%" valign="middle">
       <p>
-        <b>Thore Soltau</b> · <i>Senior Fullstack Developer &amp; Solution Architect</i><br/>
-        <sub><b>15+ Years Enterprise Engineering</b> (IT Practice since 2008) · Zero Unplanned Downtime · Düsseldorf / Duisburg</sub><br/>
-        <sub>Bridging the gap between business domains, architecture, and high-performance engineering.</sub>
+        <b>Bridging the gap between business domains, architecture, and high-performance engineering.</b>
       </p>
       <p>
         <a href="https://www.radixsort.de"><img src="https://img.shields.io/badge/Architecture_Portfolio-radixsort.de-06b6d4?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" /></a>
@@ -28,10 +26,10 @@
         <a href="mailto:soltau@radixsort.de"><img src="https://img.shields.io/badge/Direct_Line-soltau@radixsort.de-334155?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" /></a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Practice-Since_2008_(15%2B_Yrs)-0ea5e9?style=flat-square&logo=clock&logoColor=white" alt="Since 2008" />
-        <img src="https://img.shields.io/badge/Reliability-Zero_Downtime-10b981?style=flat-square&logo=shield&logoColor=white" alt="Zero Downtime" />
+        <img src="https://img.shields.io/badge/Enterprise_Practice-Since_2008_(15%2B_Yrs)-0ea5e9?style=flat-square&logo=clock&logoColor=white" alt="Since 2008" />
+        <img src="https://img.shields.io/badge/Reliability-Zero_Unplanned_Downtime-10b981?style=flat-square&logo=shield&logoColor=white" alt="Zero Downtime" />
         <img src="https://img.shields.io/badge/Scale-Carrier--Grade_Enterprise-f59e0b?style=flat-square&logo=speedtest&logoColor=white" alt="Carrier-Grade" />
-        <img src="https://img.shields.io/badge/Languages-DE_%C2%B7_EN-64748b?style=flat-square" alt="Languages" />
+        <img src="https://img.shields.io/badge/Location-D%C3%BCsseldorf_%2F_Duisburg-64748b?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
       </p>
     </td>
     <td width="26%" align="center" valign="middle">
@@ -226,33 +224,8 @@
   </tr>
 </table>
 
----
-
-<details>
-<summary><b>⚡ System Telemetry & Core Engineering Values (Click to expand)</b></summary>
-<br/>
-
-```zsh
-❯ whoami
-Thore Soltau — Senior Fullstack Developer & Solution Architect
-
-❯ cat focus.txt
-• Bridge between business domain, architecture, and development
-• Translating complex legacy landscapes into resilient, clean systems
-• Preparing, validating, and documenting architectural decisions (ADRs)
-
-❯ cat credentials.txt
-• Certified Camunda Developer (2025)
-• BPMN 2.0 & DMN Business Process Modeling
-
-❯ uptime
-15+ years enterprise engineering (IT practice since 2008) — zero unplanned downtime
-```
-
-</details>
-
 <br/>
 
 <div align="center">
-  <sub>Engineered by <b>Thore Soltau</b> · Explore interactive cases and telemetry on <a href="https://www.radixsort.de"><b>radixsort.de</b></a></sub>
+  <sub>More cases &amp; architecture insights on <a href="https://www.radixsort.de"><b>radixsort.de</b></a></sub>
 </div>
