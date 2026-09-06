@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Thore Soltau - Senior Fullstack Developer &amp; Domain Architect" width="100%" />
+<img src="./assets/banner.svg" alt="Thore Soltau - Senior Fullstack Developer &amp; Solution Architect" width="100%" />
 
 <br/>
 <br/>
@@ -16,10 +16,10 @@
 
 ### `whoami`
 
-> **Senior Fullstack Developer & Domain Architect** with 12+ years of hands-on experience designing, architecting, and operating resilient enterprise systems. Specializing in **Domain-Driven Design (DDD)**, **Cloud-Native MACH Architectures**, and high-throughput **Event-Driven Microservices** with zero unplanned downtime.
+> **Senior Fullstack Developer & Solution Architect** with 12+ years of hands-on experience designing, architecting, and operating resilient enterprise systems. Specializing in **Domain-Driven Design (DDD)**, **MACH Architectures**, and high-throughput **Event-Driven Microservices** with zero unplanned downtime.
 >
 > 📍 Based in **Düsseldorf / Duisburg, Germany**  
-> 🏢 Consulting via **WDW Consulting GmbH** & [radixsort.de](https://www.radixsort.de)  
+> 🏢 Consulting via [**WDW Consulting GmbH**](https://wdw-consulting.com) & [**radixsort.de**](https://www.radixsort.de)  
 > 💼 Client / Enterprise GitHub: [@thore-soltau](https://github.com/thore-soltau)
 
 ---
