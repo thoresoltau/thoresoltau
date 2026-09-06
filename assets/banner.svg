@@ -1,0 +1,108 @@
+<svg width="960" height="230" viewBox="0 0 960 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14" />
+      <stop offset="50%" stop-color="#0e172a" />
+      <stop offset="100%" stop-color="#0a1222" />
+    </linearGradient>
+
+    <!-- Accent Glow Gradients -->
+    <radialGradient id="glowCyan" cx="88%" cy="15%" r="65%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.25" />
+      <stop offset="60%" stop-color="#0ea5e9" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#070b14" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glowBlue" cx="10%" cy="85%" r="55%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#070b14" stop-opacity="0" />
+    </radialGradient>
+
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#f0f9ff" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6" />
+      <stop offset="40%" stop-color="#1e293b" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.5" />
+    </linearGradient>
+
+    <!-- Subtle Tech Grid Pattern -->
+    <pattern id="techGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1e293b" stroke-width="0.75" stroke-opacity="0.5" />
+      <circle cx="0" cy="0" r="1.2" fill="#38bdf8" fill-opacity="0.35" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="956" height="226" rx="14" fill="url(#bgGrad)" />
+  <rect x="2" y="2" width="956" height="226" rx="14" fill="url(#techGrid)" />
+  <rect x="2" y="2" width="956" height="226" rx="14" fill="url(#glowCyan)" />
+  <rect x="2" y="2" width="956" height="226" rx="14" fill="url(#glowBlue)" />
+  <rect x="2" y="2" width="956" height="226" rx="14" stroke="url(#borderGrad)" stroke-width="1.5" fill="none" />
+
+  <!-- Right Decorative Schematic Elements -->
+  <g opacity="0.35">
+    <line x1="710" y1="36" x2="905" y2="36" stroke="#38bdf8" stroke-width="1" stroke-dasharray="5,4" />
+    <line x1="905" y1="36" x2="925" y2="56" stroke="#38bdf8" stroke-width="1" />
+    <line x1="925" y1="56" x2="925" y2="175" stroke="#38bdf8" stroke-width="1" />
+    <line x1="925" y1="175" x2="905" y2="195" stroke="#38bdf8" stroke-width="1" />
+    <line x1="905" y1="195" x2="780" y2="195" stroke="#38bdf8" stroke-width="1" stroke-dasharray="5,4" />
+    <circle cx="710" cy="36" r="2.5" fill="#38bdf8" />
+    <circle cx="780" cy="195" r="2.5" fill="#38bdf8" />
+  </g>
+
+  <!-- Top System Tag -->
+  <g transform="translate(46, 44)">
+    <rect x="0" y="2" width="7" height="7" rx="1.5" fill="#22d3ee" />
+    <text x="16" y="9" fill="#38bdf8" class="mono" font-size="11" font-weight="600" letter-spacing="1.5">RADIXSORT.DE  //  SYSTEM TELEMETRY: OPERATIONAL</text>
+  </g>
+
+  <!-- Main Headline -->
+  <text x="46" y="104" fill="url(#titleGrad)" class="sans" font-size="42" font-weight="800" letter-spacing="-0.5">THORE SOLTAU</text>
+
+  <!-- Subtitle -->
+  <text x="46" y="138" fill="#94a3b8" class="sans" font-size="16" font-weight="500">
+    Senior Fullstack Developer &amp; Domain Architect <tspan fill="#38bdf8" opacity="0.6">|</tspan> Cloud-Native Enterprise Systems
+  </text>
+
+  <!-- Strategic Focus Badges -->
+  <g transform="translate(46, 166)">
+    <!-- Badge 1: DDD -->
+    <g transform="translate(0, 0)">
+      <rect width="160" height="26" rx="5" fill="#1e293b" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
+      <circle cx="12" cy="13" r="3" fill="#22d3ee" />
+      <text x="22" y="17" fill="#e2e8f0" class="mono" font-size="10.5" font-weight="500">Domain-Driven Design</text>
+    </g>
+
+    <!-- Badge 2: MACH -->
+    <g transform="translate(170, 0)">
+      <rect width="148" height="26" rx="5" fill="#1e293b" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
+      <circle cx="12" cy="13" r="3" fill="#38bdf8" />
+      <text x="22" y="17" fill="#e2e8f0" class="mono" font-size="10.5" font-weight="500">MACH Architecture</text>
+    </g>
+
+    <!-- Badge 3: EDA & CQRS -->
+    <g transform="translate(328, 0)">
+      <rect width="168" height="26" rx="5" fill="#1e293b" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
+      <circle cx="12" cy="13" r="3" fill="#60a5fa" />
+      <text x="22" y="17" fill="#e2e8f0" class="mono" font-size="10.5" font-weight="500">Event-Driven / CQRS</text>
+    </g>
+
+    <!-- Badge 4: Cloud & Microservices -->
+    <g transform="translate(506, 0)">
+      <rect width="186" height="26" rx="5" fill="#1e293b" fill-opacity="0.85" stroke="#334155" stroke-width="1" />
+      <circle cx="12" cy="13" r="3" fill="#818cf8" />
+      <text x="22" y="17" fill="#e2e8f0" class="mono" font-size="10.5" font-weight="500">Cloud-Native (GCP / AWS)</text>
+    </g>
+  </g>
+</svg>
