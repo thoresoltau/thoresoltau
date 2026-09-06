@@ -156,7 +156,7 @@
       <img src="https://img.shields.io/badge/Standard-MCP_Protocol-0f172a?style=flat-square" alt="MCP" />
       <img src="https://img.shields.io/badge/Knowledge-RAG_Pipelines-0f172a?style=flat-square" alt="RAG" />
       <br/>
-      <img src="https://img.shields.io/badge/Models-Gemini_%C2%B7_OpenAI-0f172a?style=flat-square&logo=googlegemini&logoColor=8E75FF" alt="Models" />
+      <img src="https://img.shields.io/badge/Models-Claude_%C2%B7_Gemini_%C2%B7_OpenAI-0f172a?style=flat-square&logo=anthropic&logoColor=D97706" alt="Claude Gemini OpenAI" />
       <img src="https://img.shields.io/badge/Libraries-PyTorch_%C2%B7_spaCy-0f172a?style=flat-square" alt="PyTorch spaCy" />
     </td>
   </tr>
