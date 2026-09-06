@@ -23,7 +23,6 @@
         <a href="https://www.radixsort.de"><img src="https://img.shields.io/badge/Architecture_Portfolio-radixsort.de-06b6d4?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio" /></a>
         <a href="https://github.com/thore-soltau"><img src="https://img.shields.io/badge/Enterprise_GitHub-@thore--soltau-6366f1?style=flat-square&logo=github&logoColor=white" alt="Work GitHub" /></a>
         <a href="https://wdw-consulting.com"><img src="https://img.shields.io/badge/Consulting-WDW_Consulting-0284c7?style=flat-square&logo=google-cloud&logoColor=white" alt="Consulting" /></a>
-        <a href="mailto:soltau@radixsort.de"><img src="https://img.shields.io/badge/Direct_Line-soltau@radixsort.de-334155?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" /></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Enterprise_Practice-Since_2008_(15%2B_Yrs)-0ea5e9?style=flat-square&logo=clock&logoColor=white" alt="Since 2008" />
@@ -223,9 +222,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <sub>More cases &amp; architecture insights on <a href="https://www.radixsort.de"><b>radixsort.de</b></a></sub>
-</div>
