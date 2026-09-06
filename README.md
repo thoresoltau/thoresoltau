@@ -51,7 +51,7 @@
 <div align="center">
 
 <a href="https://www.radixsort.de">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,ts,nodejs,nestjs,python,fastapi,docker,kubernetes,gcp,aws,terraform,postgres,nextjs,react,angular,tailwind,linux,git&perline=10&theme=dark" alt="Skills Wall" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,ts,nodejs,nestjs,python,fastapi,docker,kubernetes,azure,gcp,aws,terraform,postgres,nextjs,react,angular,tailwind,linux,git&perline=7&theme=dark" alt="Skills Wall" />
 </a>
 
 <br/>
@@ -95,7 +95,7 @@
       <img src="https://img.shields.io/badge/Core-Domain_Events-0f172a?style=flat-square" alt="Domain Events" />
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/Platform-GCP_%C2%B7_AWS-0f172a?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="GCP AWS" />
+      <img src="https://img.shields.io/badge/Platform-GCP_%C2%B7_AWS_%C2%B7_Azure-0f172a?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="GCP AWS Azure" />
       <img src="https://img.shields.io/badge/Containers-Kubernetes-0f172a?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
       <img src="https://img.shields.io/badge/Cloud_Run-Serverless-0f172a?style=flat-square" alt="Cloud Run" />
       <br/>
