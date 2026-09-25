@@ -25,7 +25,7 @@
         <a href="https://wdw-consulting.com"><img src="https://img.shields.io/badge/Consulting-WDW_Consulting-0284c7?style=flat-square&logo=google-cloud&logoColor=white" alt="Consulting" /></a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Enterprise_Practice-Since_2008_(15%2B_Yrs)-0ea5e9?style=flat-square&logo=clock&logoColor=white" alt="Since 2008" />
+        <img src="https://img.shields.io/badge/Enterprise_Practice-Since_2013_(10%2B_Yrs)-0ea5e9?style=flat-square&logo=clock&logoColor=white" alt="Since 2008" />
         <img src="https://img.shields.io/badge/Reliability-Zero_Unplanned_Downtime-10b981?style=flat-square&logo=shield&logoColor=white" alt="Zero Downtime" />
         <img src="https://img.shields.io/badge/Scale-Carrier--Grade_Enterprise-f59e0b?style=flat-square&logo=speedtest&logoColor=white" alt="Carrier-Grade" />
         <img src="https://img.shields.io/badge/Location-D%C3%BCsseldorf_%2F_Duisburg-64748b?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
