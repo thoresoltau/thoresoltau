@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Dynamic Typing Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=680&lines=Senior+Fullstack+Developer+%C2%B7+Solution+Architect;Camunda+Certified+Professional+Developer;10%2B+Years+Enterprise+Engineering+(Since+2008);Domain-Driven+Design+(DDD)+%C2%B7+Cloud-Native+MACH;Event-Driven+Architecture+%C2%B7+BPMN+2.0+%C2%B7+C4+Models" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2400&pause=900&color=22D3EE&center=true&vCenter=true&width=680&lines=Senior+Fullstack+Developer+%C2%B7+Solution+Architect;Camunda+Certified+Professional+Developer;10%2B+Years+Enterprise+Engineering+(Since+2013);Domain-Driven+Design+(DDD)+%C2%B7+Cloud-Native+MACH;Event-Driven+Architecture+%C2%B7+BPMN+2.0+%C2%B7+C4+Models" alt="Typing Animation" />
 
 </div>
 
